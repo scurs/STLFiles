@@ -1,2 +1,7 @@
 # STLFiles
-STL Files
+STL Files:
+
+- Uploading
+- Viewing
+- Some calculations
+
