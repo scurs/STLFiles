@@ -1,0 +1,6 @@
+.bigLabel { font-family: Verdana; font-size: 20px; color: #7700FF }
+.bigData  { font-family: Verdana; font-size: 20px; color: #000000 }
+.bigLnk   { font-family: Verdana; font-size: 22px; color: #0000EE }
+.bigLnk:hover { font-family: Verdana; font-size: 22px; color: #0066FF }
+.errStyle { font-family: Verdana; font-size: 18px; color: red }
+
